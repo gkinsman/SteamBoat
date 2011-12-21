@@ -1,0 +1,10 @@
+This project is something I've been working on for a while, but have now brought it together into something that I hope to be quite useful.
+
+The aim is to piggyback on top of yachting software (e.g. Expedition/Deckman) and to broadcast useful information via a REST API out to consumers.
+The usage scenario for this is primarily for yacht racing, as having up to date information can be vital for decision making.
+
+The kind of information returned 
+
+In it's current form, the application is built on top of the WCF Web Api (currently in preview 6) and hosted in IIS. Web Api apps can be hosted
+in anything, but IIS is the current target given its ease of deployment.
+
