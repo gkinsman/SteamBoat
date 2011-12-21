@@ -1,7 +1,7 @@
 This project is something I've been working on for a while, but have now brought it together into something that I hope to be quite useful.
 
 The aim is to piggyback on top of yachting software (e.g. Expedition/Deckman) and to broadcast useful information via a REST API out to consumers.
-The usage scenario for this is primarily for yacht racing, as having up to date information can be vital for decision making.
+The usage scenario for this is primarily for yacht racing, as having up to date information can be vital for decision making and it's not very useful if it's downstairs only.
 
 The kind of information returned 
 
