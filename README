@@ -1,6 +1,8 @@
-SteamBoat is a realtime yacht REST data service. It provides a consistent API to interact with several different applications that provide boat data.
+SteamBoat is a realtime yacht REST data service. It provides a consistent API to interact with 
+several different applications that provide boat data.
 
-The goal is to be able to transmit data from a computer located in a safe place, to mobile devices that can be held by the user.
+The goal is to be able to transmit data from a computer located in a safe place, to mobile 
+devices that can be held by the user.
 
 Current feature list:
 - Display available variables from application
